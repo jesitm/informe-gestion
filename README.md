@@ -8,9 +8,11 @@ Dashboard comparativo de gestión construido a partir de 10 años de ventas de u
 
 La empresa necesita un informe que detalle:
 
+- la **rentabilidad de cada ciudad**,
 - la **rentabilidad de cada sucursal**,
-- el **desempeño del equipo de ventas**,
-- el **ranking de marcas y productos** que comercializa, para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas con marcas, entre otras.
+- el **ranking de marcas y productos** 
+- los **medios de pago**,
+> Para la toma de decisiones sobre la apertura o el cierre de sucursales, alianzas con marcas, productos a discontinuar entre otras.
 
 ## Datos
 
