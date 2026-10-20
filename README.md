@@ -48,6 +48,9 @@ para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas
 
 ## Capturas del informe
 
+**Total de ventas - 10 años**
+
+![Líder en ventas](images/00-total-ventas.png)
 **Medellín, líder en ventas**
 
 ![Líder en ventas](images/01-lider-ventas.png)
