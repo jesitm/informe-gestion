@@ -42,7 +42,7 @@ para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas
 | Hallazgo | Recomendación |
 | --- | --- |
 | **Medellín lidera las ventas**: concentra el 44,45% del total y se mantiene estable a lo largo de los años | Consolidar y proteger la sucursal líder |
-| **Pereira (12,4) y Cali (12,35)** generan bajas ganancias [COMPLETAR: unidad, por ejemplo millones] y no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
+| **Pereira (12,4%) y Cali (12,35%)** generan bajas ganancias con poco porcentaje de participación en las ventas, no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
 | **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir aún más el uso de efectivo |
 | **Los productos del puesto 35 al 40** son los de menor venta | Discontinuarlos y sumar productos similares a los 5 más vendidos |
 
