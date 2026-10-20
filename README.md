@@ -35,7 +35,7 @@ para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas
 
 **3. Dashboard (Power BI)**
 - Tarjetas de KPI y vistas comparativas por sucursal, marca, producto y medio de pago
-- Medidas en DAX: [COMPLETAR: 2 o 3 medidas principales, por ejemplo ventas totales, participación %, ranking]
+- Medidas en DAX: ventas totales, % participación por ciudad, sucursal, , 
 
 ## Hallazgos y recomendaciones
 
