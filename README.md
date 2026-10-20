@@ -84,8 +84,6 @@ management-report/
 └── images/          # capturas del dashboard
 ```
 
-[COMPLETAR: ajustar a las carpetas que realmente subas. Si no podés compartir los datos originales, agregá un diccionario de datos.]
-
 ## Herramientas
 
 - **Lenguaje:** Python
