@@ -10,9 +10,7 @@ La empresa necesita un informe que detalle:
 
 - la **rentabilidad de cada sucursal**,
 - el **desempeño del equipo de ventas**,
-- el **ranking de marcas y productos** que comercializa,
-
-para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas con marcas, entre otras.
+- el **ranking de marcas y productos** que comercializa, para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas con marcas, entre otras.
 
 ## Datos
 
@@ -20,7 +18,7 @@ para tomar decisiones sobre la apertura o el cierre de sucursales y las alianzas
 | --- | --- | --- |
 | Archivos CSV | Ventas con información de productos, precios y medios de pago, por sucursal y ciudad | 10 años |
 
-[cantidad de registros: 30,000, cantidad de sucursales: 6 y de productos: 40 ]
+> 30.000 registros, 6 sucursales y 40 productos
 
 ## Proceso
 
