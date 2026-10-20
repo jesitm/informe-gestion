@@ -2,7 +2,7 @@
 
 Dashboard comparativo de gestión construido a partir de 10 años de ventas de una empresa con sucursales en varias ciudades. Los datos se recibieron en archivos CSV (productos, precios y medios de pago); los limpié y modelé con Python y armé el tablero en Power BI para responder preguntas de negocio sobre sucursales, productos y medios de pago.
 
-> **Contexto:** caso práctico del curso de Data Science de Henry / proyecto individual .
+> **Contexto:** caso práctico del curso de Data Science de Henry, proyecto individual .
 
 ## Problema de negocio
 
