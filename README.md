@@ -51,6 +51,7 @@ La empresa necesita un informe que detalle:
 **Total de ventas - 10 años**
 
 ![Líder en ventas](images/00-total-ventas.png)
+
 **Medellín, líder en ventas**
 
 ![Líder en ventas](images/01-lider-ventas.png)
