@@ -39,7 +39,7 @@ La empresa necesita un informe que detalle:
 - Tarjetas de KPI y vistas comparativas por sucursal, marca, producto y medio de pago
 - Medidas en DAX: ventas totales, % participación por ciudad y por sucursal.
   
-**4. Desafío principal:** los datos originales tenían varios productos en una misma fila, lo que impedía analizar ventas por producto o marca. Normalizarlos permitió armar el modelo relacional y los rankings por producto y marca.
+**Desafío principal:** los datos originales tenían varios productos en una misma fila, lo que impedía analizar ventas por producto o marca. Normalizarlos permitió armar el modelo relacional y los rankings por producto y marca.
 
 ## Hallazgos y recomendaciones
 
