@@ -2,16 +2,16 @@
 
 Dashboard comparativo de gestión construido a partir de 10 años de ventas de una empresa con sucursales en varias ciudades. Los datos se recibieron en archivos CSV (productos, precios y medios de pago); los limpié y modelé con Python y armé el tablero en Power BI para responder preguntas de negocio sobre sucursales, productos y medios de pago.
 
-> **Contexto:** caso práctico del curso de Data Science de Henry, proyecto individual .
+> **Contexto:** caso práctico del curso de Data Science de Henry, proyecto individual.
 
 ## Problema de negocio
 
 La empresa necesita un informe que detalle:
 
-- la **rentabilidad de cada ciudad**,
-- la **rentabilidad de cada sucursal**,
+- la **rentabilidad de cada ciudad**
+- la **rentabilidad de cada sucursal**
 - el **ranking de marcas y productos** 
-- los **medios de pago**,
+- los **medios de pago**.
 > Para la toma de decisiones sobre la apertura o el cierre de sucursales, alianzas con marcas, productos a discontinuar entre otras.
 
 ## Datos
@@ -35,7 +35,7 @@ La empresa necesita un informe que detalle:
 
 **3. Dashboard (Power BI)**
 - Tarjetas de KPI y vistas comparativas por sucursal, marca, producto y medio de pago
-- Medidas en DAX: ventas totales, % participación por ciudad, sucursal, , 
+- Medidas en DAX: ventas totales, % participación por ciudad y por sucursal. 
 
 ## Hallazgos y recomendaciones
 
@@ -43,7 +43,7 @@ La empresa necesita un informe que detalle:
 | --- | --- |
 | **Medellín lidera las ventas**: concentra el 44,45% del total y se mantiene estable a lo largo de los años | Consolidar y proteger la sucursal líder |
 | **Pereira (12,4%) y Cali (12,35%)** generan bajas ganancias con poco porcentaje de participación en las ventas, no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
-| **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir el uso de efectivo y minimizar el uso de efectivo en los locales|
+| **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir el uso de efectivo en los locales|
 | **Los productos del puesto 35 al 40** son los de menor venta | Discontinuarlos y sumar productos similares a los productos más vendidos |
 
 ## Capturas del informe
