@@ -83,9 +83,9 @@ La empresa necesita un informe que detalle:
 informe-gestion/
 ├── README.md
 ├── data/            # datos de muestra o descripción de las columnas
+├── images/          # capturas del dashboard
 ├── notebooks/       # limpieza y análisis exploratorio (Python)
-├── powerbi/         # archivo .pbix del informe
-└── images/          # capturas del dashboard
+└── powerbi/         # archivo .pbix del informe 
 ```
 
 ## Herramientas
