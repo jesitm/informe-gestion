@@ -8,9 +8,9 @@ Dashboard comparativo de gestión construido a partir de 10 años de ventas de u
 
 La empresa necesita un informe que detalle:
 
-- la **rentabilidad de cada ciudad**
-- la **rentabilidad de cada sucursal**
-- el **ranking de marcas y productos** 
+- la **participación en las ventas de cada ciudad**
+- la **participación en las ventas de cada sucursal**
+- el **ranking de ventas de marcas y productos** 
 - los **medios de pago**.
 > Para la toma de decisiones sobre la apertura o el cierre de sucursales, alianzas con marcas, productos a discontinuar entre otras.
 
@@ -41,8 +41,8 @@ La empresa necesita un informe que detalle:
 
 | Hallazgo | Recomendación |
 | --- | --- |
-| **Medellín lidera las ventas**: concentra el 44,45% del total y se mantiene estable a lo largo de los años | Consolidar y proteger la sucursal líder |
-| **Pereira (12,4%) y Cali (12,35%)** generan bajas ganancias con poco porcentaje de participación en las ventas, no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
+| **Medellín lidera las ventas** concentra el 44,45% del total de las ventas y se mantiene estable a lo largo de los años | Consolidar y proteger la sucursal líder |
+| **Pereira (12,4%) y Cali (12,35%)** con poco porcentaje de participación en las ventas, no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
 | **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir el uso de efectivo en los locales|
 | **Los productos del puesto 35 al 40** son los de menor venta | Discontinuarlos y sumar productos similares a los productos más vendidos |
 
