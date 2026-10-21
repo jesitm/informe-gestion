@@ -43,8 +43,8 @@ La empresa necesita un informe que detalle:
 | --- | --- |
 | **Medellín lidera las ventas**: concentra el 44,45% del total y se mantiene estable a lo largo de los años | Consolidar y proteger la sucursal líder |
 | **Pereira (12,4%) y Cali (12,35%)** generan bajas ganancias con poco porcentaje de participación en las ventas, no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
-| **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir aún más el uso de efectivo |
-| **Los productos del puesto 35 al 40** son los de menor venta | Discontinuarlos y sumar productos similares a los 5 más vendidos |
+| **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir el uso de efectivo y minimizar el uso de efectivo en los locales|
+| **Los productos del puesto 35 al 40** son los de menor venta | Discontinuarlos y sumar productos similares a los productos más vendidos |
 
 ## Capturas del informe
 
