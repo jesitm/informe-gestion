@@ -80,7 +80,7 @@ La empresa necesita un informe que detalle:
 ## Estructura del repositorio
 
 ```text
-management-report/
+informe-gestion/
 ├── README.md
 ├── data/            # datos de muestra o descripción de las columnas
 ├── notebooks/       # limpieza y análisis exploratorio (Python)
