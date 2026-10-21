@@ -12,6 +12,7 @@ La empresa necesita un informe que detalle:
 - la **participación en las ventas de cada sucursal**
 - el **ranking de ventas de marcas y productos** 
 - los **medios de pago**.
+  
 > Para la toma de decisiones sobre la apertura o el cierre de sucursales, alianzas con marcas, productos a discontinuar entre otras.
 
 ## Datos
@@ -41,8 +42,8 @@ La empresa necesita un informe que detalle:
 
 | Hallazgo | Recomendación |
 | --- | --- |
-| **Medellín lidera las ventas** concentra el 44,45% del total de las ventas y se mantiene estable a lo largo de los años | Consolidar y proteger la sucursal líder |
-| **Pereira (12,4%) y Cali (12,35%)** con poco porcentaje de participación en las ventas, no lograron una posición fuerte en los últimos 10 años | Realizar un estudio de mercado en la zona antes de decidir sobre su continuidad |
+| **Medellín lidera las ventas**: concentra el 44,45% del total y se mantiene estable a lo largo de los años |
+| **Pereira (12,4%) y Cali (12,35%)** tienen una baja participación en las ventas y no lograron una posición fuerte en los últimos 10 años |
 | **Las tarjetas de crédito y débito** son los medios de pago más usados; el efectivo es el menos usado | Lanzar campañas promocionales para reducir el uso de efectivo en los locales|
 | **Los productos del puesto 35 al 40** son los de menor venta | Discontinuarlos y sumar productos similares a los productos más vendidos |
 
@@ -60,7 +61,7 @@ La empresa necesita un informe que detalle:
 
 ![Evolución de ventas](images/02-evolucion-ventas.png)
 
-**Pereira y Cali: sucursales de baja rentabilidad**
+**Pereira y Cali: sucursales con baja participación en las ventas**
 
 ![Pereira](images/03-pereira.png)
 ![Cali](images/04-cali.png)
