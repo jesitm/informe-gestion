@@ -27,7 +27,8 @@ La empresa necesita un informe que detalle:
 
 **1. Preparación de datos (ETL, Python y Power Query)**
 - Importación de 1 archivo CSV
-- Limpieza: Completitud de los datos, formatos de fechas entre otros
+- Limpieza: Completitud de los datos, formatos de fechas, entre otros
+- Reestructuración de las ventas: cada fila del CSV traía hasta 3 productos, por lo que se transformó a un formato normalizado de una fila por producto vendido (tabla de Detalle de Facturas)
 - Modelado relacional: Productos, Clientes, Sucursales, Facturas, Detalle de Facturas, Ciudades, Vendedores, Marcas y Método de Pago
 
 **2. Análisis exploratorio (Python)**
@@ -97,5 +98,5 @@ informe-gestion/
 
 ## Autora
 
-**Lic. Inf. Jessica Torres Molina** · Consultora de datos · Power BI, SQL y Python
+**Jessica Torres Molina** · Consultora de datos · Power BI, SQL y Python
 [LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/) · [GitHub](https://github.com/jesitm)
